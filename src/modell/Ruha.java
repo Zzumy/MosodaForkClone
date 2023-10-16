@@ -24,5 +24,5 @@ public class Ruha {
     public void setTiszta(boolean tiszta) {
         this.tiszta = tiszta;
     }
-    
+
 }
