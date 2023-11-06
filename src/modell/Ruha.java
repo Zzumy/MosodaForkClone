@@ -1,6 +1,7 @@
 package modell;
 
 public class Ruha {
+
     private String tulNeve;
     private boolean tiszta;
 
